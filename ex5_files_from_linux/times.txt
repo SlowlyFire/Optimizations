@@ -1,0 +1,28 @@
+(On local machine tested)
+***** Their - No filter - ms*****
+their time:
+size 128:  7.69
+size 256:  31.372
+size 512:  101.986 
+size 1024: 353.952 
+
+
+***** MyTime - No Filter - ms****
+size 128: 
+size 256:  
+size 512:  
+size 1024: 
+
+***** Their - With filter - ms*****
+their time:
+size 128:  10.814
+size 256:  42.773
+size 512:   125.306
+size 1024: 610.302
+
+
+***** MyTime - With Filter - ms****
+size 128:  
+size 256:  
+size 512:   
+size 1024: 
