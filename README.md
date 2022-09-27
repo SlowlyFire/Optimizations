@@ -10,8 +10,8 @@ In order to optimize the given program, we used some optimizations, regardless o
 <img src="https://user-images.githubusercontent.com/83518959/192632116-a04c3ac2-890f-4050-9b42-7871a51c81b5.png" width="450" height="300" />  
   
 # - **Using more efficient instructions**:    
-<img src="https://user-images.githubusercontent.com/83518959/192632243-a484d4c4-18d3-442e-827e-6adaae0b1885.png" width="450" height="300" />  
-<img src="https://user-images.githubusercontent.com/83518959/192632321-70b8cd5e-14d6-40e4-9405-68ef88e5ce2a.png" width="450" height="300" />  
+<img src="https://user-images.githubusercontent.com/83518959/192632243-a484d4c4-18d3-442e-827e-6adaae0b1885.png" width="450" height="300" />
+<img src="https://user-images.githubusercontent.com/83518959/192632321-70b8cd5e-14d6-40e4-9405-68ef88e5ce2a.png" width="450" height="300" />
 <img src="https://user-images.githubusercontent.com/83518959/192632421-fc9d8fe7-57a7-4f10-b67a-291c6bd1efab.png" width="450" height="300" />  
     
 # - **Loop Unrolling**:  
